@@ -29,5 +29,6 @@ bin/
 .DS_Store
 
 .idea
-
-database
+database/*
+out/*
+lib/*
